@@ -31,5 +31,6 @@ These findings outline the importance of a holistic approach to aviation safety,
 <img width="809" alt="image" src="https://github.com/user-attachments/assets/64f97035-6819-485d-9099-6c804e8da5c7">
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/7a78224a-0fe7-4bc4-a456-6888611c2d24">
 <img width="740" alt="image" src="https://github.com/user-attachments/assets/2a517477-492e-4164-9411-571290241d74">
+https://public.tableau.com/app/profile/elizabeth.atieno/viz/ANALYSISOFAIRCRAFTACCIDENTS/Dashboard1?publish=yes
 
 
